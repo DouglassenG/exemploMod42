@@ -1,4 +1,4 @@
-package main.java.br.com.douglas.produto.controller;
+package br.com.douglas.produto.controller;
 
 import br.com.douglas.produto.model.Produto;
 import br.com.douglas.produto.service.ProdutoService;

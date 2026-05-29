@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>br.com.douglas</groupId>
-    <artifactId>cliente</artifactId>
+    <artifactId>produto</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>cliente</name>
+    <name>produto</name>
 
     <properties>
         <java.version>17</java.version>
