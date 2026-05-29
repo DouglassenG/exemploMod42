@@ -1,4 +1,4 @@
-
+package br.com.douglas.cliente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,3 @@ public class ClienteApplication {
         SpringApplication.run(ClienteApplication.class, args);
     }
 }
-
-
