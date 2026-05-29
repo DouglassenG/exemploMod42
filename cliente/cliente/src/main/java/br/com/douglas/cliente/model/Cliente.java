@@ -1,4 +1,4 @@
-﻿package br.com.douglas.cliente.model;
+package br.com.douglas.cliente.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
